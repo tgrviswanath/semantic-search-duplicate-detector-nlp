@@ -1,0 +1,19 @@
+Machine learning is a subset of artificial intelligence that enables systems to learn from data without being explicitly programmed. It uses statistical techniques to identify patterns and make decisions with minimal human intervention.
+
+Deep learning is a type of machine learning that uses neural networks with many layers to learn representations of data. It has achieved breakthrough performance in image recognition, speech recognition, and natural language processing.
+
+Natural language processing (NLP) is a branch of AI focused on enabling computers to understand, interpret, and generate human language. Applications include translation, sentiment analysis, chatbots, and text summarisation.
+
+Computer vision is the field of AI that enables machines to interpret and understand visual information from the world. It powers applications like facial recognition, autonomous vehicles, and medical image analysis.
+
+Reinforcement learning is a type of machine learning where an agent learns to make decisions by interacting with an environment and receiving rewards or penalties. It has achieved superhuman performance in games like Chess and Go.
+
+Transfer learning is a technique where a model trained on one task is adapted for a different but related task. It dramatically reduces the data and compute required to train high-performing models.
+
+Generative AI refers to AI systems that can create new content including text, images, audio, and video. Large language models like GPT-4 and image generators like DALL-E are prominent examples.
+
+Federated learning is a privacy-preserving machine learning approach where models are trained across multiple devices without sharing raw data. It is used in mobile keyboards and healthcare applications.
+
+Explainable AI (XAI) focuses on making AI decision-making transparent and interpretable to humans. It is critical for high-stakes applications in healthcare, finance, and criminal justice.
+
+Edge AI refers to running AI models directly on devices like smartphones and IoT sensors rather than in the cloud. It reduces latency, improves privacy, and enables offline operation.

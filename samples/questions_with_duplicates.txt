@@ -1,0 +1,23 @@
+What is machine learning and how does it differ from traditional programming?
+How does deep learning work and what are neural networks?
+What is the difference between supervised and unsupervised learning?
+How do large language models like GPT work?
+What is transfer learning and why is it important?
+
+What is machine learning and how is it different from regular programming?
+How does deep learning function and what exactly are neural networks?
+Can you explain the difference between supervised learning and unsupervised learning?
+How do large language models such as GPT actually work?
+What is transfer learning and what makes it significant?
+
+What are the main applications of natural language processing?
+How does sentiment analysis work in NLP?
+What is named entity recognition and what is it used for?
+How do transformer models process text?
+What is the BERT model and how was it trained?
+
+What are the primary use cases for natural language processing?
+How does sentiment analysis actually function?
+What exactly is named entity recognition and what are its applications?
+How do transformer architectures handle text input?
+Can you explain what BERT is and how it was developed?
